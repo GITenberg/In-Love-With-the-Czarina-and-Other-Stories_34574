@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5845
     wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34574#In-Love-With-the-Czarina-and-Other-Stories
 gutenberg_issued: '2010-12-05'
 gutenberg_type: Text
 identifiers:
