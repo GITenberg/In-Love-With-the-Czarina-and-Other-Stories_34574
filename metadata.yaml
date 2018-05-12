@@ -1,0 +1,38 @@
+_repo: In-Love-With-the-Czarina-and-Other-Stories_34574
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Felbermann, Louis
+    gutenberg_agent_id: '42939'
+    url: http://www.gutenberg.org/2009/agents/42939
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Mor
+    - Jokai, Maurus
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+description: ''
+gutenberg_issued: '2010-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- Translations into English'
+- !lcsh 'Short stories'
+tableOfContents: Introduction -- In love with the Czarina -- Tamerlan the Tartar --
+  Valdivia -- Bizeban -- The moonlight somnambulist.
+title: In Love With the Czarina, and Other Stories
+url: http://www.gutenberg.org/ebooks/34574
